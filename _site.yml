@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: " Ericka Arley"
+  right:
+    - text: "Principal"
+      href: index.html
+    - text: "Acerca de mi"
+      href: about.html
+output:
+  html_document:
+    theme: yeti
+    
